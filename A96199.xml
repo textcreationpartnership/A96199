@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Welch-mans publike recantation: or, His hearty sorrow for taking up of armes against her Parliament. Declaring to all the world how her hath been abused by faire words, and such adullations and flatterings, telling her what booties and prizes her should get, and what victories her should obtaine, and what honour it would be to her and her country if her would but conduct her King to White Hall neer London. Withall, advising all her country-men to take up no more armes against her Parliament to defend the commission of array; the divell take the array. Commanded to be published.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96199</idno>
+            <idno type="STC">Wing W1338</idno>
+            <idno type="STC">Thomason E129_20</idno>
+            <idno type="STC">ESTC R2174</idno>
+            <idno type="EEBO-CITATION">99871491</idno>
+            <idno type="PROQUEST">99871491</idno>
+            <idno type="VID">156284</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96199)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156284)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E129[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Welch-mans publike recantation: or, His hearty sorrow for taking up of armes against her Parliament. Declaring to all the world how her hath been abused by faire words, and such adullations and flatterings, telling her what booties and prizes her should get, and what victories her should obtaine, and what honour it would be to her and her country if her would but conduct her King to White Hall neer London. Withall, advising all her country-men to take up no more armes against her Parliament to defend the commission of array; the divell take the array. Commanded to be published.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>for Fr. Coule,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor --  Early works to 1800.</term>
+               <term>Wales --  History --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156284:1" rendition="simple:additions"/>
+            <p>The Welch-mans publike RECANTATION Or, His hearty ſorrow for taking up of Armes againſt her <hi>Parliament.</hi>
+            </p>
+            <p>Declaring to all the World how her hath been abuſed by faire words, and ſuch adullations and flatterings, telling her what Booties and Prizes her ſhould get, and what victories her ſhould obtaine, and what honour it would be to her and her Country if her would but conduct her King to White Hall neer London.</p>
+            <p>Withall, Adviſing all her Country-men to take up no more Armes againſt her Parliament to defend the Commiſſion of Array; the Divell take the Array.</p>
+            <p>
+               <hi>Commanded to be publiſhed.</hi>
+            </p>
+            <p>Printed at London for <hi>Fr. Coule,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156284:2"/>
+            <head>The <hi>Welch-mans</hi> publick Recantation, or his hearty ſorrow for taking up of Armes againſt her Parliament.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Ay it pleaſe all and every one that ſhall caſt her good and favourable eyes uppon this ſheetes of papers, to know and beleeve that all her Country<g ref="char:EOLhyphen"/>men of Wales by whatſoever appellations they be called are wonderfully ſorry for her late temerities and raſhneſſe, whereunto the Divell owing her a ſpight led her blind-fold, for her doe with teares over-flowing her cheekes, and drowning her hearts inward and outward ac<g ref="char:EOLhyphen"/>knowledg and confeſſe, (which her will not doe at a Seſſions, for feare of hanging) that her was very ſtrangly deceived by politique jeeres, flaterries, and temtations, to make walkes and preambu<g ref="char:EOLhyphen"/>lations out of her Countries of Wales, to kill and fight with her know not whom, and her have curſt her ſelfe many dayes toge<g ref="char:EOLhyphen"/>ther in Welch for being ſuch ſimple puppyes, to be carried away by witchcrafts as her thinks, and as it will appeare in her lamenta<g ref="char:EOLhyphen"/>ble and pitifull recantations, which her doe now intend to make, out of the goodneſſe of her Brittiſh blood, and valiant diſpoſi<g ref="char:EOLhyphen"/>tion a great while agoe, her was perſwaded to put on her armes, and to march with great courage and magnanimeſties upon great buſineſſe, and matters of high and generous conſequences as her conceived to conduct and bring her good and gracious King to her Parliament, and that his perſon might be ſecured from all indignities and injuries, for which her will ſpend her beſt blood in her bellies, her being true Brittaine and love her King, and prince with all integrities, and all her hearts, but after her had conſen<g ref="char:EOLhyphen"/>ted
+<pb facs="tcp:156284:2"/>to goe in warlike faſhions, her was led away in a fooles para<g ref="char:EOLhyphen"/>dizes, to fall by the ſwords of her enemies, and to make her ap<g ref="char:EOLhyphen"/>pearances in Kenton Battailes, where there was nothing but kil<g ref="char:EOLhyphen"/>ling and ſlaying of all perſons, without reſpect of degrees and petidegrees, and ancient Gentlemen and Lords were in as much pericles and dangers as her pooreſt Country-men; Lord bleſſe us, Guns went off like a clutter of haile ſtumbling downe from her old Regiments in Wales, when her couſen <hi>Boreas</hi> ſwagges and domineers on her Mountaines, and was great deluges and overflowings of bloud which was ſpilt, to make the ground bluſh for inhumanities and mercileſſe cruelty, and bullets flew about her eares as commonly as if her ſhould have told her ſome tale and bid her beware, but her could not take heed of her comming, but thoſe round pellots hit her in inviſible miracu<g ref="char:EOLhyphen"/>lous manners her know not how, but her Country-men was kil<g ref="char:EOLhyphen"/>led and ſlaine and died like rotten Muttons, before her could make her Inventories and Wills to all her loving Coſens, her was ſtrooke dead without giving her leave to ſend commenda<g ref="char:EOLhyphen"/>tions of her ſelfe and her valour to her Country-men: and Saint <hi>Winifreds</hi> Well could not flow in greater big ſtreames then her ſaw bloud run in ſtreames mingled with vulgars and Shentlemens blood, her could not know her conſanguinity nor her Cuſen gentle blood, but was all running out of her vaines and bellies, her cannot make terrible deſcriptions of awle theſe cruell fights, and horible Battailes, which her was ſpectators and beholders of, but her can tell, that her was never put into ſuch aſtoniſh<g ref="char:EOLhyphen"/>men's, and amazements, in all her dayes, for her cannot with all her fancyes, and imaginations ſet out her Pictures, and deadly repreſentations of this hot skirmiſh, her know not about what, but meere piples, and papiles, and words, ſuch as her never knew about Pregorgatives, and Commiſſiones of Array, her doe not know, but her was ready to her breeches, bewray her<g ref="char:EOLhyphen"/>ſelfe, without authorities, but upon plaine neceſſities, and feares
+<pb facs="tcp:156284:3"/>and frights; but her is now in all humility and ſubmiſion ready and deſirous to crave pardon for her following and obeying the Comisſion of Array; her thought like the poor dog, that her was going to a breake-faſt, when her was going to hanging, her thought to have marched out of her Country, onely ſo bring the King and Parliament to meete lovingly, but by the way, many thouſand Divells met us, and ſpet fire againſt us, and ſent us ſuch hot anſwers, as bounce bounce, that her was al<g ref="char:EOLhyphen"/>moſt deafe, and was lamed in all her ſences, ſo that her thought her ſhould never heare her Welch Harps more melodiouſly playing: and beſides the ſmoke of gunpowder ſpoiled her ſto<g ref="char:EOLhyphen"/>mack, that her did wiſh her had been toſting Cheeſe by the fire ſide in her own Country, there her could fight at country Machets, and crack her Coſens crowne, and hee rook it for good payment for a Welch Runt: but here at Kinton, our Crownes were crackt, and yet they would be content; but wee muſt pay our owne deare lives, and keep us from running home to <hi>Wales,</hi> though our leggs was as good and better than their hearts. Her was truely conformed before her went out of her Countrey, that her ſhould get honour, and great ſtore of pillage, and good pay for her labour, <hi>By Gods plutra nayles,</hi> her had ſuch good pay, that her deſire never to be ſo payd againe; the Red<g ref="char:EOLhyphen"/>coats did ſo pay her, that her was fain to run from her pay, mark her that now, her could have found better occupying at home, and better payment made there, then her did at this Kynton bat<g ref="char:EOLhyphen"/>tell, for her loſt one arm, and almoſt one legge, in ſo much that her ſhall never deale truly, nor go uprightly with her beſt friends; Yet her do much thank her Fates in that her hath but one hand, for now her can pilfer and ſteaſe but halfe ſo much with one, as her could before with two; &amp; ſo her ſhall not be hanged ſo ſoone as her ſhould, if her had 2 hands. Her was likely drilled to <hi>Coven<g ref="char:EOLhyphen"/>try,</hi> &amp; it was told her that it was a very rich town, and good ſtore of pillage was therein, and that hee ſhould have fine ſhirts and
+<pb facs="tcp:156284:3"/>fine ſheetes, her muſt confeſſe that put her into ſome heart to get ſome ſhirts, for her had never a one of her back, but a couple of borrowed napkins tacked together, and ſo put upon her ſhoulders, and with never a ſleeve, and thoſe her wore 4. moneths, in ſo much that her had neere threeſcore &amp; two Moabites about her, beſides Nitites and Jebuſites, which leapt like our Welch goate over the pales and over the mountaines, when we hunt her for Veniſon.</p>
+            <p>And for her running away, her think is very good wiſ<g ref="char:EOLhyphen"/>domes, for her do remember her welſh proverb, <hi>de huma Comrade, bo in daneth Whee,</hi> that is, one paire of heeles is worth two paire of hands: yet her can ſhuſtifie that her Country-men did not face about and runne away the firſt, but did ſtoutely ſtand to it, and for her part, her did but wink twice in ſhooting thrice her gun off with a pellet in it, but her was in ſuch a ſweat with it, as if it had bin Saint <hi>Taffies</hi> day when all her cheeſes are ſet to the fire to roaſt for joy.</p>
+            <p>And her tell her that for her own credite, that it was the Engliſh man that firſt run away; and it doth much re<g ref="char:EOLunhyphen"/>joyce her heart to heare, that not only ſome of her Coun<g ref="char:EOLhyphen"/>trymen run away, but that divers Engliſh Captaines not being content to run away on foot, but rode away like cowards upon their horſe backs, and with the Parliaments money alſo, bidding their ſouldiers ſhift for themſelves, for they were all loſt men. Nay her do caknow them very well, there was one Captaine <hi>Ramſey</hi> and Captaine <hi>Frith,</hi> and another Captain called <hi>Richard Parker,</hi> who lookes like Bul-beefe, &amp; would have frighted her with her looks, her do warrant her, but her like a coward run away, and did not like an honeſt man go throgh-ſtich with his worke; ſuch a raſcall would be hanged if her was in our Country, yet her would not have him hanged, for that would ſpoile his whiſtling, for if all run-aways ſhould be hanged, what
+<pb facs="tcp:156284:4"/>would become of her none ſelfe: But her would have him marked for a white-liver'd ſlave, and where her had a horſe of 12. l. price; her ſhould have one of 12. s. the next time, and her Lord General ſhould ſerve the ſouldiers as her co<g ref="char:EOLhyphen"/>zen <hi>Iulius Caeſar</hi> did when her firſt entred England, broght all his men in ſhips, and when he had landed them, com<g ref="char:EOLhyphen"/>manded the ſhips to be ſent home again, ſo that they had no hope left of running away, but to ſtand to it, and fight like men, or dye like cowards; So her would have her Par<g ref="char:EOLhyphen"/>liament let none of her Captains have horſes above 10. s. price, that if they offer to flye or run away, they may ſoon be overtaken and puniſhed: or ſo branded that they may be taken notice of for fugitives: for her owne part (alas poor <hi>Taffie</hi>) all that her could get for guarding up her K. to the Parliament was the loſſe of one of her armes, and almoſt one of her legs, the Tivell rake her commiſſion of Array, and her alſo, if ever her fight again for the Array, for it made her in a wofull caſe; I would I had her ſtones between her anvill at home, that firſt invented or found out the commiſſion of Array, but I will conclude, as her cozen Sir <hi>Francis Jones</hi> did upon the Seſſions houſe bench when her cozen was condemn'd to be hang'd, hee ſtarting up hearing her Counteyman cry for mercy, ſaid it is well you ſcape ſo too, ſo ſay I it is well I ſcaped ſo too, and ſo her will march home to his own Countrey.</p>
+            <div type="section">
+               <head>The welch mens new Oath</head>
+               <p>IN conſiderations therefore of the premizes bloody and cruell, beyond all comparriſons and ſtories of all ancient fights, wee the old Brittaines doe here, from the bottom and top of our hearts, which doe trouble her yet to thinke on that Battaile, doe here promiſe and take an hundred Oaths upon bookes, that we will never here<g ref="char:EOLhyphen"/>after be ſo mad, as to goe a gathering of wooll, or wealth, or moneyes, upon the wayes of pillaging and plundering,
+<pb facs="tcp:156284:4"/>and getting good eſtates, and apparrell, by the comisſion of Array, her will rather goe in her country habit, rather then to venture for the good apparrel &amp; get nothing but knocks, nay and looſe her life, and march bare footed, a<g ref="char:EOLhyphen"/>gainſt her good friends, the Parliaments forces; and her deſire that the Parliament would not take their forward<g ref="char:EOLhyphen"/>neſſe to asſiſt theſe Commisſioners of Array, as a con<g ref="char:EOLhyphen"/>tempt againſt all their honours and urſhips, for her will hang her ſelfe, if ever her be ſeduced and led away to look our Army in the face againe, or to fall to blowes in open field, where her blood was like to have been ſhed, had not her being wiſer then the reſt, run away, &amp; ſo having ſcap'd with her life, hath made this Recantation, and doth deſire all the worſhips of the parliament, to pardon her great te<g ref="char:EOLhyphen"/>merities and erours in ſtanding for the Commiſſion of Ar<g ref="char:EOLhyphen"/>ray, and her doe vow and make proteſtation, that hereaf<g ref="char:EOLhyphen"/>ter her will be wiſe and diſcreet in the effuſion of her true brittiſh plood, and will upon all occaſions handle her arms and legs in defending the Proteſtant Religion, bee they what they will, and her King and Countrey, this is her true Reſolution and Recantation.</p>
+            </div>
+         </div>
+         <div type="song">
+            <head>The Welchmans dolefull ditty,</head>
+            <opener>to the tune of <hi>Ohone, Ohone.</hi>
+            </opener>
+            <lg>
+               <l>
+                  <seg rend="decorInit">I</seg>N <hi>Kinton</hi> Greene</l>
+               <l>Poore <hi>Taffy</hi> was ſeene,</l>
+               <l>O <hi>Taffy,</hi> O <hi>Taffy;</hi>
+               </l>
+               <l>Taffy her ſtood</l>
+               <l>To the knees in bloud,</l>
+               <l>O doe not laugh yee;</l>
+               <l>But her was led on</l>
+               <l>With falſe Commiſſion,</l>
+               <l>To her unknowne;</l>
+               <l>That poore Taffy her ſelfe</l>
+               <l>Might live in health,</l>
+               <l>But her got blowes for her wealth</l>
+               <l>O Taffy poore Taffy.</l>
+            </lg>
+            <lg>
+               <l>Their crievous fight</l>
+               <l>Did make day night</l>
+               <l>O Taffy Taffye;</l>
+               <l>Her would be flying,</l>
+               <l>Likt not dying;</l>
+               <l>'Twas bad Epitaphe,</l>
+               <l>Her ſword and ſpeare</l>
+               <l>Did ſmell for feare</l>
+               <l>And her hearts were</l>
+               <l>In a cold plight;</l>
+               <l>Made Taffy out-right</l>
+               <l>His poore Britches beſhite,</l>
+               <l>O Taffy O Taffye.</l>
+            </lg>
+            <pb facs="tcp:156284:5"/>
+            <lg>
+               <l>To Guns did ſo fart</l>
+               <l>Made poore Taffy ſtart</l>
+               <l>O Taffy O Taffye.</l>
+               <l>Her goe bare-foot,</l>
+               <l>Then ſo goe trot,</l>
+               <l>O doe not laugh yee:</l>
+               <l>For her was bang'd</l>
+               <l>Becauſe her had gang'd</l>
+               <l>Vnder the command</l>
+               <l>Of Array,</l>
+               <l>Who had for her pay</l>
+               <l>Many a ſound creat knock that day.</l>
+               <l>O Taffy Taffye.</l>
+            </lg>
+            <lg>
+               <l>Her goe in freeze,</l>
+               <l>Eate bread and cheeſe,</l>
+               <l>O Taffy O Taffye.</l>
+               <l>Feede with Goates</l>
+               <l>Without old Groates,</l>
+               <l>O doe not laugh yee,</l>
+               <l>Had you bin there</l>
+               <l>Where her did appear</l>
+               <l>With cold cheere</l>
+               <l>In knapſack,</l>
+               <l>You would then alack</l>
+               <l>For feare have turn'd her backe</l>
+               <l>O Taffy O Taffye.</l>
+            </lg>
+            <lg>
+               <l>Her will now invent</l>
+               <l>How to repent,</l>
+               <l>O Taffy O Taffey,</l>
+               <l>And for want</l>
+               <l>Of words her recant,</l>
+               <l>O doe not laugh yee:</l>
+               <l>For her will be ſwore</l>
+               <l>Her will doe no more</l>
+               <l>Though her be poore</l>
+               <l>And too true</l>
+               <l>Valour her wil ſhew</l>
+               <l>To more in ſuch create crew</l>
+               <l>O Taffy O poore Taffye.</l>
+            </lg>
+            <lg>
+               <l>Her do conclude</l>
+               <l>In dolefull mood,</l>
+               <l>O Taffy O Taffye.</l>
+               <l>Her will weep</l>
+               <l>To Goates and Sheep</l>
+               <l>O do not laugh ye,</l>
+               <l>For her be anger,</l>
+               <l>And then hang her,</l>
+               <l>If in danger,</l>
+               <l>Her come.</l>
+               <l>Pox upon a Gun,</l>
+               <l>Has ſpoyl'd her going home,</l>
+               <l>O Taffie poore Taffie.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
